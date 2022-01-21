@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'AdobeInvisFont';
+    src: url('../BLOG/fonts/adoif_.pfb-webfont.woff') format('woff') ,
+         url(../BLOG/fonts/ADOIF_.PFB.ttf);
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face{
+    font-family: 'Ubuntu';
+    src: url('../BLOG/fonts/ubuntu.bold.woff') format('woff') ,
+         url(../BLOG/fonts/ubuntu.bold.ttf) ;
+    font-weight: bold;
+    font-style: normal; 
+}
+
+@font-face{
+    font-family: 'MyriadPro-Regular';
+    src:url('../BLOG/fonts/MyriadPro-Regular.woff') format('woff') ,
+        url(../BLOG/fonts/MyriadPro-Regular.ttf); 
+    font-weight: normal;
+    font-style: normal;
+    }
+    
